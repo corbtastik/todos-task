@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: todos-task
+todos:
+  api:
+    endpoint: 'http://localhost:8080'
+    limit: 64
